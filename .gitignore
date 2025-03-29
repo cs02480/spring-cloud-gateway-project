@@ -1,0 +1,1 @@
+target/\n*.log\n*.class\n*.jar\n*.war\n*.ear\n.DS_Store\nnode_modules/\n.env\n.idea/\n*.iml\n*.swp\ndocker-compose.override.yml
